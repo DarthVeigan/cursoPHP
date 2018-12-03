@@ -1,5 +1,5 @@
-HTTPD.CONF 	- Nome do arquivo de configuração do apache
-PHP.INI		- Nome do arquivo de configuração do php
+HTTPD.CONF 	- Nome do arquivo de configuraÃ§Ã£o do apache
+PHP.INI		- Nome do arquivo de configuraÃ§Ã£o do php
 
 acesso navegador
 -localhost
@@ -9,39 +9,23 @@ acesso navegador
 
 	echo "Meu primeiro programa em PHP! <strong>Hello World!</strong> ";
 
-?> //No navegador aperta-se Ctrl + u para ver o código! 
+?> //No navegador aperta-se Ctrl + u para ver o cÃ³digo! 
 
 
 Cliente/servidor
 
-Clientes faz um request = solicitação para o servidor! 
+Clientes faz um request = solicitaÃ§Ã£o para o servidor! 
 Servidor devolve uma response = resposta do servidor para o request! 
 
 =============================================================================
 
 - Clonar pastas - git clone link nomeDaNovaPasta
-- Criar novo repositório - cria a nova pasta, acessa a pasta com o CMD e digita git init. 
+- Criar novo repositÃ³rio - cria a nova pasta, acessa a pasta com o CMD e digita git init. 
 - Para saber se foi criado, acesse o caminho da pasta.\git
 
-- git add nome.ext - Leva para uma sala de espera ( stage area ) Vai aguardar alterações do commit!
+- git add nome.ext - Leva para uma sala de espera ( stage area ) Vai aguardar alteraÃ§Ãµes do commit!
 - git add --all - Vai por todos os arquivos na stage area
-- git commit -m " Por que fez a alteração "
+- git commit -m " Por que fez a alteraÃ§Ã£o "
 - git push - Empurrar arquivos pro servidor remoto! 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-python tem o Django para WEB
